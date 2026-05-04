@@ -1,0 +1,18 @@
+Sim, usei IA (Claude - Anthropic) durante o teste.
+
+Sou iniciante e estou aprendendo a programar, então seria desonesto dizer
+que consegui fazer tudo sozinha. Alguns pontos como as procedures com controle
+de transação e a correção dos erros do Bloco D ainda estão além do que consigo
+resolver de cabeça.
+
+A IA me ajudou bastante na estrutura dos scripts e em entender o porquê de
+cada correção. Mas não aceitei tudo de olhos fechados — rodei cada script no
+SQL Server pra ver se funcionava de verdade, e o que não fazia sentido pra mim
+eu questionei.
+
+Além da IA, tive apoio de um amigo que já programa há um tempo. Ele não fez
+por mim, mas me orientou quando eu travei, tirou minhas dúvidas e me ajudou
+a entender o que estava acontecendo em cada etapa.
+
+No fim das contas, aprendi bastante durante o processo e acredito que essa
+honestidade vale mais do que fingir que sei tudo.

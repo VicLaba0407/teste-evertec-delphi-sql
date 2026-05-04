@@ -1,0 +1,10 @@
+Um risco que percebi é a IA gerar um código que funciona na teoria mas
+não na prática. Ela não conhece o seu banco, suas regras, seus dados —
+então pode sugerir algo que roda sem erro mas faz coisa errada, tipo um
+UPDATE sem WHERE que atualiza tudo sem querer.
+
+Como eu lidaria com isso:
+Nunca confiar cegamente. Sempre rodar primeiro num ambiente de teste,
+entender o que o código está fazendo antes de aceitar, e se tiver dúvida
+perguntar pra alguém com mais experiência (tipo José) Rs.. 
+IA ajuda muito, mas não substitui o bom senso de quem está executando.
