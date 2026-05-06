@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2026/05/04 01:36:59.000.591,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/04 01:38:03.000.124,C:\EvertecTeste\BlocoC\UnitPrincipal.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/05/04 01:38:03.000.124,C:\EvertecTeste\BlocoC\UnitPrincipal.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/04 01:44:52.000.668,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/04 01:50:29.000.199,=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/04 01:51:41.000.602,C:\EvertecTeste\BlocoC\UnitCidades.pas=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/05/04 01:51:41.000.602,C:\EvertecTeste\BlocoC\UnitCidades.dfm=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/05/04 19:18:38.000.991,C:\EvertecTeste\Dephi\Project1.dproj=C:\Users\Dell\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/05/04 20:23:11.000.876,=C:\EvertecTeste\Dephi\Unit1.pas</Transaction>
+    <Transaction>2026/05/04 20:53:19.000.967,C:\EvertecTeste\Dephi\Unit1.pas=C:\EvertecTeste\BlocoC\UnitClientes.pas</Transaction>
+    <Transaction>2026/05/04 20:53:19.000.967,C:\EvertecTeste\Dephi\Unit1.dfm=C:\EvertecTeste\BlocoC\UnitClientes.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
